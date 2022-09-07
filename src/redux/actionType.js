@@ -1,0 +1,6 @@
+export const START = "START"
+export const getFilm = "GET-FILM"
+export const setError = "SET-ERROR"
+export const addLike = "ADD-LIKE"
+export const addDislike = "ADD-DISLIKE"
+export const deleteMovie = "DELETE-MOVIE"
